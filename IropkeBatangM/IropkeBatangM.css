@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'IropkeBatangM';
-  src: url('IropkeBatangM.eot');
-  src: url('IropkeBatangM.eot?#iefix') format('embedded-opentype'),
-       url('IropkeBatangM.woff') format('woff'),
-       url('IropkeBatangM.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/IropkeBatangM/IropkeBatangM.eot');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/IropkeBatangM/IropkeBatangM.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/IropkeBatangM/IropkeBatangM.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/IropkeBatangM/IropkeBatangM.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
