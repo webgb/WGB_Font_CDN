@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'RobotoSlab-Medium';
-  src: url('RobotoSlab-Medium.eot');
-  src: url('RobotoSlab-Medium.eot?#iefix') format('embedded-opentype'),
-       url('RobotoSlab-Medium.woff') format('woff'),
-       url('RobotoSlab-Medium.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/RobotoSlab/RobotoSlab-Medium.eot');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/RobotoSlab/RobotoSlab-Medium.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/RobotoSlab/RobotoSlab-Medium.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/RobotoSlab/RobotoSlab-Medium.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
