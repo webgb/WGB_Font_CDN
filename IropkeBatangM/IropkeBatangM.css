@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'IropkeBatangM';
+  src: url('IropkeBatangM.eot');
+  src: url('IropkeBatangM.eot?#iefix') format('embedded-opentype'),
+       url('IropkeBatangM.woff') format('woff'),
+       url('IropkeBatangM.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
