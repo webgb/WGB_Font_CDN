@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'IropkeBatangM';
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@master/IropkeBatang/IropkeBatangM.eot');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@master/IropkeBatang/IropkeBatangM.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@master/IropkeBatang/IropkeBatangM.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@master/IropkeBatang/IropkeBatangM.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'RobotoSlab-Medium';
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/RobotoSlab/RobotoSlab-Medium.eot');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/RobotoSlab/RobotoSlab-Medium.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/RobotoSlab/RobotoSlab-Medium.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/RobotoSlab/RobotoSlab-Medium.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
