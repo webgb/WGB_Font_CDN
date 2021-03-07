@@ -1,0 +1,79 @@
+@font-face {
+  font-family: 'NotoSans-BK';
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Black.eot');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Black.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Black.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Black.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NotoSans-B';
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Bold.eot');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Bold.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Bold.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NotoSans-D';
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-DemiLight.eot');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-DemiLight.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-DemiLight.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-DemiLight.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NotoSans-L';
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Light.eot');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Light.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Light.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Light.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  }
+
+@font-face {
+  font-family: 'NotoSans-L';
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Light.eot');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Light.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Light.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Light.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NotoSans-M';
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Medium.eot');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Medium.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Medium.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Medium.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NotoSans-R';
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Regular.eot');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Regular.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Regular.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NotoSans-T';
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Thin.eot');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Thin.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Thin.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Thin.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
