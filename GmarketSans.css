@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Gmark-B';
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@master/IropkeBatang/GmarketSansTTFBold.eot');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@master/IropkeBatang/GmarketSansTTFBold.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@master/IropkeBatang/GmarketSansTTFBold.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@master/IropkeBatang/GmarketSansTTFBold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Gmark-L';
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@master/IropkeBatang/GmarketSansTTFLight.eot');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@master/IropkeBatang/GmarketSansTTFLight.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@master/IropkeBatang/GmarketSansTTFLight.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@master/IropkeBatang/GmarketSansTTFLight.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Gmark-M';
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@master/IropkeBatang/GmarketSansTTFMedium.eot');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@master/IropkeBatang/GmarketSansTTFMedium.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@master/IropkeBatang/GmarketSansTTFMedium.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@master/IropkeBatang/GmarketSansTTFMedium.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
