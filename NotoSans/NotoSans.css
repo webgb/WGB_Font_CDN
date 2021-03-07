@@ -39,16 +39,6 @@
   }
 
 @font-face {
-  font-family: 'NotoSans-L';
-  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Light.eot');
-  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Light.eot?#iefix') format('embedded-opentype'),
-       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Light.woff') format('woff'),
-       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Light.woff2') format('woff2');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
   font-family: 'NotoSans-M';
   src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Medium.eot');
   src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NotoSans/NotoSans-Medium.eot?#iefix') format('embedded-opentype'),
