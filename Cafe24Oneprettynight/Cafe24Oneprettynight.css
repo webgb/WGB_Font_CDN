@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Cafe24 Oneprettynight';
+    src: url('Cafe24Oneprettynight.eot');
+    src: url('Cafe24Oneprettynight.eot?#iefix') format('embedded-opentype'),
+        url('Cafe24Oneprettynight.woff2') format('woff2'),
+        url('Cafe24Oneprettynight.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
