@@ -1,11 +1,8 @@
-@font-face {
-    font-family: 'Cafe24 Oneprettynight';
-    src: url('Cafe24Oneprettynight.eot');
-    src: url('Cafe24Oneprettynight.eot?#iefix') format('embedded-opentype'),
-        url('Cafe24Oneprettynight.woff2') format('woff2'),
-        url('Cafe24Oneprettynight.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
+@font-face {	
+	font-family: 'Cafe24Oneprettynight';
+	src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@master/Cafe24Oneprettynight/Cafe24Oneprettynight.eot');
+	src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@master/Cafe24Oneprettynight/Cafe24Oneprettynight.eot?#iefix') format('embedded-opentype'),
+	url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@master/Cafe24Oneprettynight/Cafe24Oneprettynight.woff') format('woff'),
+	url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@master/Cafe24Oneprettynight/Cafe24Oneprettynight.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
