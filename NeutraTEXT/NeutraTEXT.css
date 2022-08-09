@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'NeutraText-Bold';
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NeutraTEXT/AnyConv.com__NeutraText-Bold.eot');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NeutraTEXT/AnyConv.com__NeutraText-Bold.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NeutraTEXT/AnyConv.com__NeutraText-Bold.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NeutraTEXT/AnyConv.com__NeutraText-Bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NeutraText-BoldItalic';
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NeutraTEXT/AnyConv.com__NeutraText-BoldItalic.eot');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NeutraTEXT/AnyConv.com__NeutraText-BoldItalic.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NeutraTEXT/AnyConv.com__NeutraText-BoldItalic.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NeutraTEXT/AnyConv.com__NeutraText-BoldItalic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NeutraText-Book';
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NeutraTEXT/AnyConv.com__NeutraText-Book.eot');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NeutraTEXT/AnyConv.com__NeutraText-Book.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NeutraTEXT/AnyConv.com__NeutraText-Book.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NeutraTEXT/AnyConv.com__NeutraText-Book.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NeutraText-BookItalic';
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NeutraTEXT/AnyConv.com__NeutraText-BookItalic.eot');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NeutraTEXT/AnyConv.com__NeutraText-BookItalic.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NeutraTEXT/AnyConv.com__NeutraText-BookItalic.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NeutraTEXT/AnyConv.com__NeutraText-BookItalic.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  }
