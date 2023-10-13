@@ -1,26 +1,35 @@
 @font-face {
   font-family: 'NGothic';
-  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@webgb.kr/NanumBarun/NanumBarunGothicWeb.eot');
-  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@webgb.kr/NanumBarun/NanumBarunGothicWeb.eot?#iefix') format('embedded-opentype'),
-       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@webgb.kr/NanumBarun/NanumBarunGothicWeb.woff') format('woff'),
-       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@webgb.kr/NanumBarun/NanumBarunGothicWeb.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NanumGothic/NanumGothic.eot');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NanumGothic/NanumGothic.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NanumGothic/NanumGothic.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NanumGothic/NanumGothic.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 
 @font-face {
   font-family: 'NGothic-B';
-  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@webgb.kr/NanumBarun/NanumBarunGothicWebBold.eot');
-  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@webgb.kr/NanumBarun/NanumBarunGothicWebBold.eot?#iefix') format('embedded-opentype'),
-       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@webgb.kr/NanumBarun/NanumBarunGothicWebBold.woff') format('woff'),
-       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@webgb.kr/NanumBarun/NanumBarunGothicWebBold.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NanumGothic/NanumGothicBold.eot');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NanumGothic/NanumGothicBold.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NanumGothic/NanumGothicBold.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NanumGothic/NanumGothicBold.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 
 @font-face {
+  font-family: 'NGothic-EB';
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NanumGothic/NanumGothicExtraBold.eot');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NanumGothic/NanumGothicExtraBold.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NanumGothic/NanumGothicExtraBold.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN/NanumGothic/NanumGothicExtraBold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+
+  @font-face {
   font-family: 'NGothic-L';
-  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@webgb.kr/NanumBarun/NanumBarunGothicWebLight.eot');
-  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@webgb.kr/NanumBarun/NanumBarunGothicWebLight.eot?#iefix') format('embedded-opentype'),
-       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@webgb.kr/NanumBarun/NanumBarunGothicWebLight.woff') format('woff'),
-       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN@webgb.kr/NanumBarun/NanumBarunGothicWebLight.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN//NanumGothic/NanumGothicLight.eot');
+  src: url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN//NanumGothic/NanumGothicLight.eot?#iefix') format('embedded-opentype'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN//NanumGothic/NanumGothicLight.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/webgb/WGB_Font_CDN//NanumGothic/NanumGothicLight.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
